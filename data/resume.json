@@ -2,15 +2,15 @@
     "avatar": "/resume/data/1.jpg",
     "background_image": "https://9to5mac.files.wordpress.com/2014/08/yosemite-3.jpg?w=1200&h=&crop=1",
     "basicinfo": {
-        "name": "叶",
-        "description": "岂能尽如人意，但求无愧我心",
-        "school": "五邑大学",
-        "profession": "计算机科学与技术",
+        "name": "叶巨岩",
+        "description": "长夜漫漫，唯有学习",
+        "school": "哈尔滨师范大学",
+        "profession": "光电信息工程",
         "sex": "男",
         "education" : "本科",
-        "workage": "2016届毕业",
-        "phone": "15088132354",
-        "email": "tonjayin@gmail.com"
+        "workage": "2015届毕业",
+        "phone": "18117809272",
+        "email": "jorianye@163.com"
     },
     "social":[
         {
@@ -41,20 +41,11 @@
     ],
     "Awards": [
         {
-            "name": "五邑大学第十三/四届学术科技节之软件大赛一等奖(蝉联2年第一)"
+            "name": "国家计算机三级"
         },
         {
-            "name": "第四届蓝桥杯全国软件专业人才设计与创业大赛C/C++本科B组广东赛区一等奖，全国决赛三等奖"
-        },
-        {
-            "name": "第六届全国大学生网络商务创新应用大赛全国总决赛主题赛单项一等奖"
-        },
-        {
-            "name": "2013百度校园助手大赛优秀开发奖"
-        },
-        {
-            "name": "2013华南资讯杯广东省Java程序员竞赛三等奖"
-        }
+            "name": "英语CET-4"
+        }    
     ],
     "socialExperiences": [
         {
@@ -72,16 +63,16 @@
         {
             "name": "深圳三分线网络科技有限公司",
             "name_link": "",
-            "title": "前端开发工程师",
+            "title": "后端开发工程师",
             "icon": "",
-            "description": "负责微信html5创意广告微信网页开发，参与报喜鸟，淘宝，亚洲环保创新论坛等案例的开发。 使用团队自行开发的前端框架html5slide。",
+            "description": "负责网站后台管理系统，用户，角色，部门，日志，权限等后端功能模块实现",
             "time": "2015.04 - 2015.09",
             "location": "广东 深圳"
         },
         {
             "name": "深圳百贝斯网络科技有限公司",
             "name_link": "",
-            "title": "PHP开发工程师",
+            "title": "JavaEE开发工程师",
             "icon": "",
             "description": "基于开源商城系统OpenCart二次开发一外贸商城",
             "time": "2014.07 - 2014.08",
@@ -99,31 +90,14 @@
             "location": ""
         },
         {
-            "name": "东莞技能培训中心",
+            "name": "深圳赢时胜科技",
             "name_link": "",
-            "title": "Android App/PHP后端, 项目负责人",
+            "title": "JavaEE开发工程师",
             "icon": "",
             "description": "主要负责PHP后端，采用ThinkPHP框架实现一个CMS、已经App广告管理后台；同时也负责Android端基础搭建",
             "time": "2014.08 - 2014.12",
             "location": ""
-        },
-        {
-            "name": "silentor",
-            "name_link": "https://github.com/Jayin/silentor",
-            "title": "JavaScript, forker",
-            "icon": "",
-            "description": "纯前端，基于markdown的博客",
-            "time": "2014.10 - 至今",
-            "location": ""
-        },
-        {
-            "name": "更多",
-            "name_link": "https://github.com/Jayin/jayin.github.io/blob/master/blog/p/projects/index.md",
-            "title": "",
-            "icon": "",
-            "description": "",
-            "time": "",
-            "location": ""
         }
+        
     ]
 }
